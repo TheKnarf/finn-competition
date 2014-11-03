@@ -1,0 +1,943 @@
+74696af0: hvilket av disse tallene er storst: 71, 375, 37, 833
+7b64b120: hvilket av disse tallene er storst: 56, 474
+826f0890: hva er 6 pluss 8
+898876c0: hvilket av disse tallene er storst: 395, 74, 24, 868
+90b14230: hvilket av disse tallene er storst: 386, 465, 92, 88
+97e9ab00: hva er 12 pluss 8
+9f313f80: hva er 11 pluss 19
+a6880510: hva er 14 pluss 6
+adee13d0: hva er 5 pluss 5
+b5638220: hvilket av disse tallene er storst: 49, 90, 729, 57
+bce84f40: hvilket av disse tallene er storst: 51, 24
+c47bed50: hva er 6 pluss 11
+cc1edc80: hva er 1 pluss 6
+d3d11a30: hva er 8 pluss 9
+db92e5b0: hvilket av disse tallene er storst: 27, 38
+e363d3d0: hvilket av disse tallene er storst: 6, 203
+eb43d680: hva er 1 pluss 19
+f3330500: hvilket av disse tallene er storst: 778, 73
+fb319700: hva er 5 pluss 7
+62a293f0: hva er 8 pluss 9
+6abf8b10: hva er 19 pluss 9
+72ebf380: hvilket av disse tallene er storst: 519, 35, 8, 416
+7b27d1a0: hva er 12 pluss 9
+21
+83541690: hvilket av disse tallene er storst: 1, 219, 14, 121
+8b8e4080: hvilket av disse tallene er storst: 79, 848
+93d8fb20: hva er 15 pluss 10
+25
+
+f990e610: hvilket av disse tallene er storst: 415, 84, 473, 76
+fc9bf220: hva er 18 pluss 3
+21
+ff98cb30: hvilket av disse tallene er storst: 49, 287
+02a3a7b0: hva er 0 pluss 7
+7
+05a00b40: hvilket av disse tallene er storst: 654, 96
+08ac1ef0: hva er 0 pluss 8
+8
+0ba8f420: hvilket av disse tallene er storst: 89, 613
+0eb51d40: hvilket av disse tallene er storst: 27, 903, 2, 795
+11d085c0: hvilket av disse tallene er storst: 483, 24, 80, 698
+ 698
+14dd0dc0: hva er 16 pluss 7
+23
+17dc6150: hva er 0 pluss 1
+1
+1ac8c820: hvilket av disse tallene er storst: 422, 579, 52, 98
+ 579
+1da6f3b0: hvilket av disse tallene er storst: 342, 4
+342
+2074e300: hvilket av disse tallene er storst: 57, 272
+ 272
+23348cb0: hva er 1 pluss 18
+19
+25e4fca0: hva er 14 pluss 3
+17
+28863130: hva er 16 pluss 0
+16
+2b182760: hvilket av disse tallene er storst: 575, 22
+575
+2d99b7d0: hvilket av disse tallene er storst: 163, 76
+163
+300bef40: hva er 14 pluss 10
+24
+32705450: hvilket av disse tallene er storst: 158, 99
+158
+34c55430: hvilket av disse tallene er storst: 526, 87
+526
+370ac970: hva er 3 pluss 0
+3
+394124b0: hvilket av disse tallene er storst: 571, 304, 22, 95
+571
+3b686ef0: hva er 0 pluss 17
+17
+3d8056a0: hva er 14 pluss 15
+29
+3f88f4d0: hva er 19 pluss 8
+27
+41821d30: hvilket av disse tallene er storst: 89, 77
+89
+436af8c0: hvilket av disse tallene er storst: 33, 99
+ 99
+4545c040: hva er 6 pluss 7
+13
+47116de0: hva er 15 pluss 0
+15
+48cd7e70: hvilket av disse tallene er storst: 5, 306
+ 306
+4a7a9300: hvilket av disse tallene er storst: 31, 585, 94, 53
+ 585
+4c16f210: hva er 10 pluss 12
+22
+4da58340: hva er 6 pluss 19
+25
+4f2491c0: hvilket av disse tallene er storst: 47, 574
+ 574
+50949d10: hvilket av disse tallene er storst: 531, 91
+531
+51f53960: hvilket av disse tallene er storst: 223, 29
+223
+534691a0: hvilket av disse tallene er storst: 48, 34, 524, 634
+ 634
+5488afd0: hvilket av disse tallene er storst: 861, 75, 48, 11
+861
+55bbcd10: hva er 7 ganget med 1
+56fe09c0: hvilket av disse tallene er storst: 58, 100, 782, 973
+ 973
+5830d930: hva er 3 pluss 11
+14
+59544930: hva er 13 pluss 15
+28
+5a678a10: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 86, 658, 4096, 64
+5b8b7940: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 529, 4
+5c9fc730: hvilket av disse tallene er storst: 427, 86
+427
+5da4d880: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 1024, 992, 784, 270
+5e9abc50: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 269, 2209, 324, 826
+5f815c30: hva er 2 pluss 17
+19
+60594b60: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 361, 577
+61216d60: hvilket av disse tallene er storst: 54, 63, 98, 745
+ 745
+61da2700: hva er 7 ganget med 12
+62a11c20: hvilket av disse tallene er storst: 83, 16, 721, 927
+ 927
+6359de00: hvilket av disse tallene er storst: 736, 14
+736
+64039140: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 1089, 417, 287, 1225
+649cc7a0: hva er 3 pluss 12
+15
+65370650: hva er 5 pluss 7
+12
+65d12eb0: hvilket av disse tallene er storst: 440, 620, 51, 60
+ 620
+666b6a30: hva er 17 ganget med 3
+6713d1d0: hvilket av disse tallene er storst: 35, 291, 374, 6
+ 374
+67adff30: hva er 6 pluss 16
+22
+68484400: hva er 8 pluss 6
+14
+68e25b20: hva er 11 pluss 15
+26
+697da520: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 256, 54
+6a17bfd0: hva er 19 ganget med 12
+6ac12720: hva er 4 ganget med 1
+6b79e350: hvilket av disse tallene er storst: 46, 99, 898, 450
+ 898
+6c236980: hva er 14 pluss 11
+25
+6cbdb000: hva er 4 pluss 0
+4
+6d581e50: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 81, 761
+6df23fe0: hva er 14 ganget med 13
+6e9bb270: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 769, 992, 484, 729
+6f54e790: hva er 19 pluss 19
+38
+6ffe8d60: hva er 8 pluss 8
+16
+7099bc80: hva er 7 ganget med 13
+7141f230: hva er 11 ganget med 19
+71f97060: hva er 19 pluss 13
+32
+72a2e890: hva er 4 pluss 9
+13
+733d7750: hva er 0 pluss 5
+5
+73d7c370: hva er 13 ganget med 14
+Answer: 182
+7470fd90: hva er 14 pluss 7
+21
+750b7a30: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 2500, 529, 151, 687
+75a5e570: hva er 9 ganget med 2
+Answer: 18
+764070c0: hvilket av disse tallene er storst: 903, 996, 91, 50
+ 996
+76dad930: hva er 0 pluss 12
+12
+777408c0: hvilket av disse tallene er storst: 205, 92, 779, 22
+ 779
+780e76b0: hva er 2 pluss 18
+20
+78a7c610: hvilket av disse tallene er storst: 77, 164
+ 164
+79421090: hva er 12 pluss 3
+15
+79dc9120: hva er 14 ganget med 12
+Answer: 168
+7a771830: hva er 2 ganget med 13
+Answer: 26
+Answer: 26
+7b20a3b0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 57, 15625
+7bd844e0: hvilket av disse tallene er storst: 29, 758, 67, 95
+ 758
+7c8233d0: hva er 4 ganget med 6
+Answer: 24
+Answer: 24
+7d39d930: hva er 2 ganget med 12
+Answer: 24
+Answer: 24
+7e00e330: hva er 3 ganget med 2
+Answer: 6
+Answer: 6
+7ed867b0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 266, 36
+7fa05f60: hva er 12 ganget med 4
+Answer: 48
+Answer: 48
+8076c180: hva er 0 pluss 7
+7
+813ea0a0: hva er 15 ganget med 9
+Answer: 135
+Answer: 135
+8215f960: hvilket av disse tallene er storst: 36, 64
+ 64
+82de11e0: hvilket av disse tallene er storst: 67, 1, 178, 417
+ 417
+839753e0: hva er 5 ganget med 17
+Answer: 85
+Answer: 85
+845fa3e0: hva er 5 pluss 3
+8
+851890c0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 900, 132
+85c1fd20: hvilket av disse tallene er storst: 98, 868, 79, 468
+ 868
+865c4bc0: hvilket av disse tallene er storst: 547, 245, 34, 20
+547
+86f6ad70: hva er 12 ganget med 16
+Answer: 192
+8791ff70: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 303, 484, 1, 151
+883b7f90: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 37, 165, 529, 2500
+88d5fdb0: hva er 10 ganget med 0
+Answer: 0
+89706280: hva er 2 pluss 9
+11
+8a0a8c20: hvilket av disse tallene er storst: 52, 637, 484, 7
+ 637
+8aa514e0: hva er 16 ganget med 15
+Answer: 240
+8b3f6670: hvilket av disse tallene er storst: 76, 137
+ 137
+8bd9c650: hva er 6 ganget med 11
+Answer: 66
+8c743290: hvilket av disse tallene er storst: 679, 35, 405, 25
+679
+8d0e83d0: hva er 0 pluss 2
+2
+8da7b690: hva er 17 ganget med 3
+Answer: 51
+8e41f650: hva er 2 pluss 8
+10
+8edc8750: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 352, 484, 299, 1
+Answer: 0
+8f865510: hva er 6 ganget med 13
+Answer: 78
+9020ca50: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 576, 1681, 640, 314
+Answer: 0
+90caa060: hva er 5 ganget med 1
+Answer: 5
+9164e300: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 9, 833
+Answer: 0
+920edb50: hva er 18 pluss 0
+18
+92a831f0: hva er 9 ganget med 13
+Answer: 117
+93428600: hvilket av disse tallene er storst: 24, 405
+ 405
+93dcf000: hva er 9 ganget med 17
+Answer: 153
+94773fa0: hvilket av disse tallene er storst: 1, 55, 397, 238
+ 397
+95119920: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 347, 922, 100, 1849
+95abe0e0: hva er 13 pluss 8
+21
+96463680: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 1369, 972, 196, 921
+96e0b930: hva er 19 ganget med 7
+Answer: 133
+977b3410: hvilket av disse tallene er storst: 54, 79, 23, 152
+ 152
+97800d60: hva er 6 ganget med 17
+Answer: 102
+9783bbf0: hva er 3 ganget med 12
+Answer: 36
+97874fa0: hvilket av disse tallene er storst: 71, 31, 765, 575
+ 765
+978b3c80: hva er 10 pluss 1
+11
+978f0a50: hva er 11 pluss 11
+22
+97930490: hva er 16 pluss 8
+24
+97972580: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 625, 28, 15625, 225
+979b5e80: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 2401, 559, 25, 790
+979fa520: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 2025, 96
+97a3da80: hvilket av disse tallene er storst: 520, 86
+520
+97a82d20: hva er 6 pluss 10
+16
+97ac87e0: hva er 11 pluss 17
+28
+97b10b40: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 2209, 644
+97b597f0: hva er 12 pluss 18
+30
+97ba72d0: hva er 18 ganget med 4
+Answer: 72
+97bf4fe0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 324, 1, 936, 778
+97c42de0: hvilket av disse tallene er storst: 45, 115, 36, 960
+ 960
+97c91810: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 386, 2401
+97ce3290: hva er 15 ganget med 19
+Answer: 285
+97d359d0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 420, 1681
+97d8f440: hva er 12 ganget med 15
+Answer: 180
+97de6990: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 865, 1681
+97e41670: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 20, 469, 324, 25
+97e9b230: hva er 0 pluss 16
+16
+97ef6e10: hvilket av disse tallene er storst: 40, 641
+ 641
+97f524e0: hva er 2 ganget med 5
+Answer: 10
+97fb7210: hvilket av disse tallene er storst: 69, 515
+ 515
+98016e70: hvilket av disse tallene er storst: 462, 32
+462
+9807baf0: hva er 18 pluss 1
+19
+980ef8c0: hva er 19 ganget med 2
+Answer: 38
+98153270: hva er 12 ganget med 6
+Answer: 72
+981bb070: hva er 17 ganget med 10
+Answer: 170
+98224c00: hva er 4 pluss 12
+16
+98290a30: hvilket av disse tallene er storst: 814, 27
+814
+982fe160: hvilket av disse tallene er storst: 78, 819
+ 819
+98371760: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 1089, 166, 2116, 326
+983e6b90: hvilket av disse tallene er storst: 45, 849
+ 849
+9845c830: hvilket av disse tallene er storst: 670, 90, 29, 940
+ 940
+984d25b0: hva er 1 ganget med 5
+Answer: 5
+9854baf0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 36, 443, 262144, 505
+985c6b80: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 169, 593
+986434e0: hvilket av disse tallene er storst: 47, 81, 677, 204
+ 677
+986c3f10: hvilket av disse tallene er storst: 893, 65
+893
+9874d6c0: hva er 10 pluss 5
+15
+987d5270: hvilket av disse tallene er storst: 237, 17, 39, 1
+237
+9885f560: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 181, 43, 1444, 961
+988ed3e0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 400, 37
+9897d3c0: hvilket av disse tallene er storst: 241, 62
+241
+98a11da0: hvilket av disse tallene er storst: 42, 644, 78, 254
+ 644
+98aaa930: hva er 1 pluss 3
+4
+98b439a0: hvilket av disse tallene er storst: 644, 66
+644
+98be1430: hvilket av disse tallene er storst: 784, 23, 49, 485
+784
+98c83b10: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 809, 531441
+98d2af20: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 256, 105, 1024, 84
+98dd2b50: hvilket av disse tallene er storst: 352, 47, 889, 94
+ 889
+98e7ef60: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 574, 4096, 729, 114
+98f2d180: hvilket av disse tallene er storst: 62, 561, 67, 37
+ 561
+98fe0540: hva er 3 ganget med 6
+Answer: 18
+99099430: hvilket av disse tallene er storst: 53, 753
+ 753
+991520a0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 81, 411
+99210ae0: hva er 13 ganget med 12
+Answer: 156
+992cfe90: hvilket av disse tallene er storst: 187, 13
+187
+99394f70: hva er 16 ganget med 6
+Answer: 96
+9945e650: hva er 9 ganget med 3
+Answer: 27
+9952f400: hvilket av disse tallene er storst: 296, 2
+296
+99600af0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 302, 1764
+996d3d90: hva er 9 ganget med 9
+Answer: 81
+997ac330: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 695, 4096
+99889890: hvilket av disse tallene er storst: 51, 212
+ 212
+9996eec0: hvilket av disse tallene er storst: 12, 287
+ 287
+99a56150: hvilket av disse tallene er storst: 9, 457
+ 457
+99b594c0: hvilket av disse tallene er storst: 86, 40, 956, 667
+ 956
+99c616c0: hvilket av disse tallene er storst: 948, 75
+948
+99d7e810: hva er 15 ganget med 4
+Answer: 60
+99e7c950: hvilket av disse tallene er storst: 555, 60, 32, 259
+555
+99f95a50: hvilket av disse tallene er storst: 8, 743
+ 743
+9a0b1100: hvilket av disse tallene er storst: 13, 76, 100, 96
+ 100
+9a1c0cd0: hva er 14 pluss 14
+28
+9a2e5130: hva er 5 pluss 9
+14
+9a414660: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 214, 64
+9a5499e0: hva er 15 pluss 1
+16
+9a683350: hvilket av disse tallene er storst: 46, 446, 36, 355
+ 446
+9a7c44d0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 233, 1600
+9a90a190: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 559, 81
+9aa58260: hva er 13 ganget med 9
+Answer: 117
+9abac4e0: hva er 12 pluss 13
+25
+9ad06160: hva er 12 ganget med 0
+Answer: 0
+9ae693d0: hva er 0 pluss 15
+15
+9afd1730: hva er 3 ganget med 6
+Answer: 18
+9b13fe90: hvilket av disse tallene er storst: 113, 3
+113
+9b2b9d90: hva er 13 pluss 18
+31
+9b434730: hva er 15 ganget med 15
+Answer: 225
+9b5b8520: hva er 10 ganget med 9
+Answer: 90
+9b7451d0: which city is the Eiffel tower in
+9b8c65e0: hvilket år endret FINNs nettsider fra oransje til blå
+9ba664a0: hva er FINNs fire verdier som preger oss i alt vi gjør
+9bc0c780: hva er 14 ganget med 10
+Answer: 140
+9bdc56b0: hva er 16 ganget med 18
+Answer: 288
+9bf7f6d0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 1296, 850
+9c1479d0: hvilke av disse tallene er primtall: 648, 389
+9c317980: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 791, 361
+9c4ee690: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 812, 1681
+9c6cf760: hva er 19 ganget med 15
+Answer: 285
+9c8b0a10: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 1521, 293, 2116, 231
+9caa2760: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 1156, 462
+9ccafb80: hva er 0 ganget med 7
+Answer: 0
+9ceb8fb0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 1521, 783
+9d0d0a00: hvilke av disse tallene er primtall: 229, 846
+9d2ef440: hvilket av disse tallene er storst: 506, 25
+506
+9d5173f0: hva er 1 ganget med 1
+Answer: 1
+9d74aff0: hvilket av disse tallene er storst: 27, 522, 38, 300
+ 522
+9d98b7f0: hva er 1 ganget med 2
+Answer: 2
+9dbdac60: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 1296, 341, 996, 100
+9de35910: hvilket av disse tallene er storst: 66, 863, 137, 65
+ 863
+9e09e3f0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 816, 2116
+9e311060: hva er 12 ganget med 17
+Answer: 204
+9e58fef0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 911, 121
+9e81bc50: hvilket av disse tallene er storst: 20, 3, 467, 5
+ 467
+9eab7a10: hvilket av disse tallene er storst: 823, 26
+823
+9ed608f0: hvilke av disse tallene er primtall: 287, 103
+9f016b40: hvilket av disse tallene er storst: 88, 204
+ 204
+9f2ded90: which city is the Eiffel tower in
+9f5b0fb0: hvilket år fikk FINN 100 ansatte
+9f88eed0: hvilket av disse tallene er storst: 10, 270, 415, 61
+ 415
+9fb81fd0: hvilken by finner du Louvre
+9fe89cd0: hvilke av disse tallene er primtall: 59, 5, 277, 137
+a019f2e0: hvilket av disse tallene er storst: 69, 761
+ 761
+a04c51b0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 384, 576
+a07fd3a0: hvilke av disse tallene er primtall: 349, 860
+a0b432f0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 1000000, 336
+a0e9e020: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 576, 422, 16, 666
+a12079d0: hva er 6 ganget med 18
+Answer: 108
+a1585490: hva er 14 ganget med 17
+Answer: 238
+a1915a90: hvilke av disse tallene er primtall: 241, 466
+a1cb5cd0: hvilket av disse tallene er storst: 15, 32
+ 32
+a2062630: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 900, 461
+a2436ec0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 875, 784, 16, 121
+a2804e90: hva er 3 ganget med 2
+Answer: 6
+a2bf9540: hva er 1 ganget med 3
+Answer: 3
+a3002330: hvilket av disse tallene er storst: 64, 143
+ 143
+a3425b70: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 1225, 937
+a385f6a0: hvilke av disse tallene er primtall: 821, 229, 449, 292
+a3cb1830: hvilket år fikk FINN 100 ansatte
+a4105570: hva er 19 ganget med 19
+Answer: 361
+a4584630: hvilket av disse tallene er storst: 58, 432
+ 432
+a4a16fd0: who played James Bond in the film Dr No
+a4eb5fc0: hvilke av disse tallene er primtall: 185, 885, 31, 79
+a536e120: hva er 11 ganget med 12
+Answer: 132
+a5840830: hvilke av disse tallene er primtall: 239, 119, 463, 492
+a5d2e850: what currency did Spain use before the Euro
+a6237000: hvilket av disse tallene er storst: 84, 462, 93, 175
+ 462
+a675c160: hvilket av disse tallene er storst: 485, 55, 469, 27
+485
+a6c9bc10: hvilket av disse tallene er storst: 38, 21, 97, 340
+ 340
+a71f9df0: hva er 8 ganget med 19
+Answer: 152
+a778d4d0: hvilket av disse tallene er storst: 62, 566
+ 566
+a7d3d5a0: hvilket av disse tallene er storst: 39, 51
+ 51
+a82f8920: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 81, 636, 400, 594
+a88e61c0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 961, 531441, 270, 814
+a8ef5bb0: hvilket år fikk FINN 100 ansatte
+a9527660: hvilke av disse tallene er primtall: 277, 643, 894, 83
+a9b7bf50: hvilket år endret FINNs nettsider fra oransje til blå
+aa1f1230: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 1849, 208
+aa877ee0: hvilke av disse tallene er primtall: 315, 541
+aaf23170: hvilke av disse tallene er primtall: 901, 419
+ab605e80: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 2500, 245
+abd0a600: hvilket år endret FINNs nettsider fra oransje til blå
+ac43c9e0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 845, 256
+acb94230: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 934, 324
+ad312950: hvilke av disse tallene er primtall: 176, 467
+adab97b0: hvilket av disse tallene er storst: 98, 909
+ 909
+ae27c6c0: hvilke av disse tallene er primtall: 845, 13
+aea69c20: hvilket av disse tallene er storst: 845, 857, 73, 49
+ 857
+af295330: hvilke av disse tallene er primtall: 155, 211, 514, 311
+afaebde0: which city is the Eiffel tower in
+b038c5c0: hvilke av disse tallene er primtall: 451, 421, 317, 728
+b0c2ddd0: hvilke av disse tallene er primtall: 109, 100
+b1517b20: hvilket år fikk FINN 100 ansatte
+b1e2dfc0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 662, 225, 403, 46656
+b2767810: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 391, 196, 0, 1024
+b30e83e0: hvilket av disse tallene er storst: 49, 807
+ 807
+b3a9d150: which city is the Eiffel tower in
+b4487c70: hvilke av disse tallene er primtall: 221, 113
+b4ea7a80: hvilke av disse tallene er primtall: 439, 367
+b5902fa0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 400, 134, 973, 1024
+b6393eb0: hvilket år fikk FINN 100 ansatte
+b6e4b0f0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 2500, 889
+b7943d60: hvilke av disse tallene er primtall: 792, 131
+b8477020: hvilket år endret FINNs nettsider fra oransje til blå
+b8feaaf0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 2025, 144, 310, 190
+b9bb5220: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 698, 64
+ba7aa8a0: hvilket av disse tallene er storst: 29, 881
+ 881
+bb3e2420: hva er 3 ganget med 0
+Answer: 0
+bc0812b0: hva er 9 ganget med 19
+Answer: 171
+bcd54ca0: hva er 0 ganget med 9
+Answer: 0
+bda742b0: hvilke av disse tallene er primtall: 617, 401
+be7dc100: hva er 12 ganget med 8
+Answer: 96
+bf58e520: hvilket av disse tallene er storst: 32, 738, 74, 387
+ 738
+c038be70: hvilket av disse tallene er storst: 11, 96, 514, 982
+ 982
+c11d5600: hvilken farge har bananer
+c206fb40: hva er 17 ganget med 14
+Answer: 238
+c2f59e10: hva er 14 ganget med 7
+Answer: 98
+c3e99240: hvilket av disse tallene er storst: 58, 951
+ 951
+c4e3b4d0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 324, 607
+c5e280d0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 81, 900, 199, 968
+c6e6e400: hvilket av disse tallene er storst: 256, 78
+256
+c7f10b90: hvilket år fikk FINN 100 ansatte
+c900cb90: hvilket av disse tallene er storst: 82, 935
+ 935
+ca16c020: hva er 2 ganget med 8
+Answer: 16
+cb32e030: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 306, 16
+cc54b080: hva er 19 ganget med 15
+Answer: 285
+cd7d56d0: hva er 3 ganget med 16
+Answer: 48
+ceac6570: what currency did Spain use before the Euro
+cfe22060: what colour is a banana
+d11eabf0: hva er 12 ganget med 3
+Answer: 36
+d261d300: what currency did Spain use before the Euro
+d3ac5be0: hva er 10 ganget med 3
+Answer: 30
+d4fca6d0: hvilket av disse tallene er storst: 50, 88, 63, 16
+ 88
+d65447b0: who played James Bond in the film Dr No
+d7b4ab10: hvilke av disse tallene er primtall: 151, 89, 817, 191
+d91cd3d0: hvilken myntenhet brukte Italia tidligere
+da8cf600: hvilket år fikk FINN 100 ansatte
+dc051e00: hva er 17 ganget med 14
+Answer: 238
+dd859f90: hva er 4 ganget med 15
+Answer: 60
+df0d6100: hvilke av disse tallene er primtall: 170, 944, 313, 31
+e09f07d0: hvilke av disse tallene er primtall: 678, 199
+e2394b50: hvilke av disse tallene er primtall: 905, 313
+e3dc8500: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 658, 1024, 47, 49
+e5893470: what colour is a banana
+e73efe90: hvilket av disse tallene er storst: 8, 449
+ 449
+e8fe4ee0: hvilken farge har bananer
+eac76130: hvilket av disse tallene er storst: 18, 401
+ 401
+ec9b78a0: hva er 18 ganget med 0
+Answer: 0
+ee78ce50: hvilken by finner du Louvre
+f05f8f80: hvilke av disse tallene er primtall: 79, 890, 621, 149
+f2524670: hva er 9 ganget med 6
+Answer: 54
+f44facd0: hvilke av disse tallene er primtall: 195, 226, 523, 37
+f6586770: hvilke av disse tallene er primtall: 446, 467
+f86c7f40: hvilke av disse tallene er primtall: 276, 277, 389, 170
+fb78be30: hva er 0 ganget med 15
+Answer: 0
+fe759860: hvilke av disse tallene er primtall: 48, 17, 487, 97
+0181c930: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 1089, 346
+047ea3a0: hva er 18 ganget med 17
+Answer: 306
+076c5040: hva er 6 ganget med 10
+Answer: 60
+0a49b490: hvilke av disse tallene er primtall: 293, 125
+0d362780: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 696, 934, 25, 1
+ 1 
+10134ef0: hvilket av disse tallene er storst: 47, 14, 91, 323
+ 323
+12e25d10: hva er 0 ganget med 16
+Answer: 0
+15a219c0: hvilke av disse tallene er primtall: 488, 439
+186fa9d0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 14, 121, 46656, 432
+1b4dc930: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 729, 404, 1936, 272
+1e3b5230: hvilket av disse tallene er storst: 646, 35
+646
+21198240: hva er 11 ganget med 14
+Answer: 154
+23e75b30: hvilket av disse tallene er storst: 87, 10
+87
+26a73e80: hva er FINNs fire verdier som preger oss i alt vi gjør
+297520e0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 913, 164, 2025, 1
+ 1 
+2c350340: what colour is a banana
+2ee59980: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 225, 141
+3186e360: hvilke av disse tallene er primtall: 47, 799
+343739e0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 669, 4096, 691, 16
+36f747c0: what colour is a banana
+39a69d80: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 435, 1600
+3c479eb0: hvilket av disse tallene er storst: 35, 880
+ 880
+3ed969a0: hvilke av disse tallene er primtall: 860, 193, 754, 313
+417af180: hvilke av disse tallene er primtall: 307, 610, 193, 37
+442b8f70: hva er 11 ganget med 1
+Answer: 11
+46ce62d0: hvilket år endret FINNs nettsider fra oransje til blå
+497ed360: hva er 13 ganget med 8
+Answer: 104
+4c1ff910: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 618, 201, 1089, 169
+4eb213f0: hva er FINNs fire verdier som preger oss i alt vi gjør
+51536410: what currency did Spain use before the Euro
+5403f080: hvilket av disse tallene er storst: 878, 56
+878
+56a53840: hva er 8 ganget med 8
+Answer: 64
+59370d40: hvilket av disse tallene er storst: 98, 6
+98
+5bb9b890: which city is the Eiffel tower in
+5e4ba800: hva er 9 ganget med 0
+Answer: 0
+60ce6d40: hvilket av disse tallene er storst: 59, 597
+ 597
+63423c20: hvilket av disse tallene er storst: 33, 171
+ 171
+65a643f0: hvilken farge har bananer
+6819ba10: hvilke av disse tallene er primtall: 53, 73, 199, 852
+6a9c9d10: hva er 1 ganget med 11
+Answer: 11
+6d103190: hvilke av disse tallene er primtall: 499, 441
+6f92cf80: hvilket av disse tallene er storst: 50, 813, 38, 576
+ 813
+720659e0: hvilke av disse tallene er primtall: 878, 383
+7487b670: hvilket av disse tallene er storst: 51, 756
+ 756
+76fa5670: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 504, 49, 726, 196
+795ea000: hvilke av disse tallene er primtall: 714, 367
+7bd1feb0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 9, 324, 913, 962
+7e351570: hva er 3 ganget med 15
+Answer: 45
+808a0610: hvilke av disse tallene er primtall: 840, 197
+82ee4390: hva er 3 ganget med 2
+Answer: 6
+854372b0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 61, 593, 262144, 1024
+87a7db60: hvilke av disse tallene er primtall: 929, 786, 461, 263
+8a1a1bf0: hvilket av disse tallene er storst: 78, 29, 26, 251
+ 251
+8c7d16f0: what currency did Spain use before the Euro
+8ef0c0b0: hva er 9 ganget med 1
+Answer: 9
+91553230: hvilke av disse tallene er primtall: 302, 449
+93c8bfa0: hva er 9 ganget med 2
+Answer: 18
+962cea60: hvilke av disse tallene er primtall: 37, 892, 803, 487
+98a0c290: hvilke av disse tallene er primtall: 812, 293
+9b232bc0: what colour is a banana
+9d967d60: hvilket av disse tallene er storst: 930, 78, 60, 143
+930
+9ff972f0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 1, 501
+1 
+a24e6500: who played James Bond in the film Dr No
+a4b17f70: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 499, 100
+a70644d0: who played James Bond in the film Dr No
+a96abc70: hvilke av disse tallene er primtall: 961, 97
+abde9760: what colour is a banana
+ae42e480: hvilket av disse tallene er storst: 497, 50, 42, 947
+ 947
+b097f7f0: hvilket av disse tallene er storst: 691, 89
+691
+b2dda690: hva er 16 ganget med 14
+Answer: 224
+b5146010: hvilket av disse tallene er storst: 94, 925
+ 925
+b73b9cc0: hvilket av disse tallene er storst: 292, 56
+292
+b9525220: hva er 18 ganget med 1
+Answer: 18
+bb59d750: hvilke av disse tallene er primtall: 47, 479, 791, 396
+bd720370: hvilket år fikk FINN 100 ansatte
+bf991ec0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 604, 289
+c1b146b0: hvilket av disse tallene er storst: 21, 551, 118, 13
+ 551
+c3ba15b0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 324, 448
+c5b24280: hva er 19 ganget med 2
+Answer: 38
+c79c5d20: hva er 12 ganget med 5
+Answer: 60
+c9774260: hvilke av disse tallene er primtall: 443, 311
+cb618240: hvilket av disse tallene er storst: 83, 554
+ 554
+cd3c3a50: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 388, 531441, 108, 625
+cf266c40: hva er 9 ganget med 19
+Answer: 171
+d1015fc0: hvilke av disse tallene er primtall: 449, 409, 641, 958
+d2ec1040: hva er 3 ganget med 8
+Answer: 24
+d4c6fb70: hvilket av disse tallene er storst: 41, 392, 62, 739
+ 739
+d692e2b0: hvilke av disse tallene er primtall: 251, 490, 479, 813
+d86df4f0: hva er FINNs fire verdier som preger oss i alt vi gjør
+da57eb40: hvilket år fikk FINN 100 ansatte
+dc511910: hvilket av disse tallene er storst: 68, 541, 58, 250
+ 541
+de3b2250: hvilket av disse tallene er storst: 6, 221
+ 221
+e0166580: hvilke av disse tallene er primtall: 151, 789, 131, 884
+e200ec50: hvilke av disse tallene er primtall: 83, 461, 53, 432
+e3fa57e0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 784, 922, 262144, 803
+e603ed60: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 9, 419
+e7fd4180: hvilket av disse tallene er storst: 175, 14
+175
+e9e76e80: hvilket av disse tallene er storst: 27, 5, 37, 548
+ 548
+ebc2a2e0: hvilke av disse tallene er primtall: 193, 191
+1171fdc0: hvilket av disse tallene er storst: 89, 990, 74, 190
+ 990
+17596290: hvilket år fikk FINN 100 ansatte
+1d342bf0: hvilket av disse tallene er storst: 945, 549, 3, 99
+945
+22fe1520: hva er 4 ganget med 13
+Answer: 52
+28b8f8f0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 576, 121, 788, 945
+2e647560: hva er 18 ganget med 15
+Answer: 270
+33ff7e10: hvilket av disse tallene er storst: 134, 580, 95, 79
+ 580
+398b6060: hvilke av disse tallene er primtall: 331, 217
+3f264d70: hvilke av disse tallene er primtall: 541, 536, 43, 178
+44d0c5f0: hvilke av disse tallene er primtall: 347, 121, 157, 389
+4a8b9df0: hvilke av disse tallene er primtall: 692, 861, 179, 277
+505660a0: hvilke av disse tallene er primtall: 373, 348, 956, 257
+562fb340: hvilke av disse tallene er primtall: 241, 652, 419, 642
+5c17d790: hva er tittel til finnkode 52827860
+620fb2a0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 4, 543
+67f82860: what currency did Spain use before the Euro
+6defd430: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 2304, 214, 363, 81
+73d865a0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 823, 46656, 484, 891
+79d050b0: which city is the Eiffel tower in
+7fd74440: hvilke av disse tallene er primtall: 965, 179, 828, 503
+ 179 
+ 503 
+85ed9c20: hva er pris til finnkode 52987538
+8c130320: hva er 15 minus 7
+9246d970: hva er 17 minus 10
+988adfd0: hvilke av disse tallene er primtall: 409, 725, 973, 73
+409 
+ 73 
+9eddf2e0: hva er 16 minus 17
+a5408300: hva er tittel til finnkode 52940791
+abb0f7b0: hva er pris til finnkode 52992230
+b2321d30: hva er 17 minus 5
+Answer: 12
+b8a403e0: hva er 15 minus 11
+Answer: 4
+bf0679a0: hva er 12 minus 5
+Answer: 7
+c559d320: hvilke av disse tallene er primtall: 7, 924, 2, 421
+7 
+ 2 
+ 421 
+cbbb5020: hvilke av disse tallene er primtall: 127, 385, 509, 281
+127 
+ 509 
+ 281 
+d22cd3f0: hva er 13 minus 12
+Answer: 1
+d88e1e20: hva er tittel til finnkode 52867518
+defeb590: hva er pris til finnkode 52992050
+e57faaf0: hva er tittel til finnkode 52993375
+ecc0d1a0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 811, 9
+f3421050: who played James Bond in the film Dr No
+f9d26710: hvilket år fikk FINN 100 ansatte
+00539660: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 791, 1849
+06c58620: hva er 12 minus 14
+Answer: -2
+0d285c00: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 1156, 182
+137bc5d0: hvilke av disse tallene er primtall: 79, 113, 874, 241
+79 
+ 113 
+ 241 
+19de6a10: hva er tittel til finnkode 51767365
+20d080f0: hva er 12 minus 0
+Answer: 12
+27331cf0: hvilken farge har bananer
+2da3f6d0: hva er 12 minus 17
+Answer: -5
+34067a70: hvilke av disse tallene er primtall: 37, 137, 523, 594
+37 
+ 137 
+ 523 
+3a782d20: hva er tittel til finnkode 52992702
+41a48860: hvilke av disse tallene er primtall: 367, 799
+367 
+48164dd0: hvilke av disse tallene er primtall: 109, 935, 645, 467
+109
+ 467
+4e964070: hva er 19 minus 1
+Answer: 18
+5506dcc0: hva er 3 minus 11
+Answer: -8
+5b698a70: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 900, 1444, 194, 601
+61bcdae0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 456, 441, 20, 64
+681f34a0: hvilken by finner du Louvre
+6e714e40: hva er 1 minus 13
+Answer: -12
+74b561f0: hva er pris til finnkode 49150651
+7bd88b80: hva er 12 minus 19
+Answer: -7
+821b4a00: which city is the Eiffel tower in
+8850baa0: hvilke av disse tallene er primtall: 574, 307, 53, 194
+ 307
+ 53
+8e94fc60: hva er 12 minus 12
+Answer: 0
+94c95710: hvilke av disse tallene er primtall: 353, 805
+353
+9aedcd60: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 729, 297, 978, 196
+a122afd0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 226, 961
+a74850e0: hva er pris til finnkode 52993210
+Answer: 
+ae1eec80: which city is the Eiffel tower in
+b444f390: hvilken by finner du Louvre
+ba59d900: hva er tittel til finnkode 52827860
+Answer: 
+c0e93970: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 796, 676
+c6ffa590: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 669, 1849
+cd06d8d0: hva er 13 minus 3
+Answer: 10
+d2fe4620: what currency did Spain use before the Euro
+d9065d50: hvilke av disse tallene er primtall: 67, 486
+67 
+defcbbf0: hva er 3 minus 11
+Answer: -8
+e4e50080: hva er pris til finnkode 52987398
+Answer: 
+eb7b5870: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 1000000, 641
+f1828f50: hvilken myntenhet brukte Italia tidligere
+f798e620: hvilke av disse tallene er primtall: 37, 824, 89, 844
+37 
+89 
+fdbea960: hva er 13 minus 9
+Answer: 4
+03d3c770: hva er tittel til finnkode 52841476
+Answer: 
+0a88cbe0: hvilke av disse tallene er primtall: 323, 923, 421, 79
+421 
+79 
+10bc5590: hva er tittel til finnkode 52835034
+Answer: 
+1783a030: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 144, 804
+1db86760: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 46656, 225, 741, 523
+23fc3be0: hvilket år endret FINNs nettsider fra oransje til blå
+2a4f9cf0: hvilket år fikk FINN 100 ansatte
+309386e0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 714, 1
+ 1 
+36c724c0: hva er tittel til finnkode 48957077
+439c6590: hva er 13 minus 10
+Answer: 3
+49c1eed0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 1156, 311, 842, 2025
+4fd72400: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 989, 625
+55de4880: hvilket år endret FINNs nettsider fra oransje til blå
+5bf4b330: hvilke av disse tallene er primtall: 349, 399
+349 
+61faa0c0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 54, 144, 225, 38
+67f2a790: hva er pris til finnkode 52867518
+Answer: 
+6e7ac0b0: hvilke av disse tallene har heltalls kvadratrot og kubikkrot: 400, 934
